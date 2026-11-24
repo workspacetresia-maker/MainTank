@@ -1,0 +1,6 @@
+{
+  "name": "MainTank",
+  "description": "Kalkulator volume air akuarium untuk kondisi polos, dengan pasir, dengan batu, dan dengan kayu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

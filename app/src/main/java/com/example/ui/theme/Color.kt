@@ -1,0 +1,77 @@
+package com.example.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+// Primary Ocean Teal & Cyan Palette
+val OceanTealPrimary = Color(0xFF006874)
+val OnOceanTealPrimary = Color(0xFFFFFFFF)
+val OceanTealContainer = Color(0xFF9EEFFD)
+val OnOceanTealContainer = Color(0xFF001F24)
+
+val LagoonSecondary = Color(0xFF4A6267)
+val OnLagoonSecondary = Color(0xFFFFFFFF)
+val LagoonContainer = Color(0xFFCDE7EC)
+val OnLagoonContainer = Color(0xFF051F23)
+
+val CoralTertiary = Color(0xFF0E7490)
+val OnCoralTertiary = Color(0xFFFFFFFF)
+val CoralContainer = Color(0xFFCFFAFE)
+val OnCoralContainer = Color(0xFF083344)
+
+// Surfaces - Light ("Crystal Aquascape Atelier")
+val SeaMistBackground = Color(0xFFF3F8F9)
+val CrispSurface = Color(0xFFFFFFFF)
+val SeaFoamSurfaceVariant = Color(0xFFE0ECEF)
+val OnSeaSurface = Color(0xFF141D20)
+val OnSeaSurfaceVariant = Color(0xFF404E52)
+val SeaOutline = Color(0xFF707E82)
+val SeaOutlineVariant = Color(0xFFC4D1D5)
+
+// Dark Mode ("Abyssal Bioluminescence")
+val AbyssBackground = Color(0xFF091417)
+val AbyssSurface = Color(0xFF102025)
+val AbyssSurfaceVariant = Color(0xFF1A3037)
+val BioluminescentCyan = Color(0xFF4FD8EB)
+val OnBioluminescentCyan = Color(0xFF00363D)
+val DeepLagoonContainer = Color(0xFF004F58)
+val OnDeepLagoonContainer = Color(0xFF9EEFFD)
+val DarkSecondary = Color(0xFFB1CBD0)
+val OnDarkSecondary = Color(0xFF1C3438)
+val DarkSecondaryContainer = Color(0xFF334B4F)
+val OnDarkSecondaryContainer = Color(0xFFCDE7EC)
+val OnAbyssSurface = Color(0xFFE0ECEF)
+val OnAbyssSurfaceVariant = Color(0xFFAEBEC2)
+val AbyssOutline = Color(0xFF536368)
+val AbyssOutlineVariant = Color(0xFF283A40)
+
+// Domain-specific Semantic Colors (Light & Dark)
+val WaterSurfaceLight = Color(0xFF38BDF8)
+val WaterDeepLight = Color(0xFF0284C7)
+val WaterSurfaceDark = Color(0xFF22D3EE)
+val WaterDeepDark = Color(0xFF0369A1)
+
+val SandAccentLight = Color(0xFFD99B52)
+val SandContainerLight = Color(0xFFFEF3E2)
+val SandOnContainerLight = Color(0xFF5C3A12)
+val SandAccentDark = Color(0xFFE6B16A)
+val SandContainerDark = Color(0xFF3B2810)
+val SandOnContainerDark = Color(0xFFFDE5C2)
+
+val StoneAccentLight = Color(0xFF546E7A)
+val StoneContainerLight = Color(0xFFECEFF1)
+val StoneOnContainerLight = Color(0xFF263238)
+val StoneAccentDark = Color(0xFF90A4AE)
+val StoneContainerDark = Color(0xFF222D33)
+val StoneOnContainerDark = Color(0xFFCFD8DC)
+
+val WoodAccentLight = Color(0xFF8D5524)
+val WoodContainerLight = Color(0xFFF6EBE1)
+val WoodOnContainerLight = Color(0xFF4A280D)
+val WoodAccentDark = Color(0xFFC68B59)
+val WoodContainerDark = Color(0xFF382212)
+val WoodOnContainerDark = Color(0xFFF3D9C1)
+
+val WarningAmberLight = Color(0xFFB45309)
+val WarningContainerLight = Color(0xFFFEF3C7)
+val WarningAmberDark = Color(0xFFFBBF24)
+val WarningContainerDark = Color(0xFF452305)

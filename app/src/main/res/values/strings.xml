@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MainTank</string>
+    <string name="app_subtitle">Kalkulator Volume Air Akuarium</string>
+    <string name="tank_dimensions_title">Dimensi Akuarium</string>
+    <string name="decoration_section_title">Kondisi &amp; Dekorasi</string>
+    <string name="breakdown_title">Rincian Kalkulasi</string>
+</resources>
